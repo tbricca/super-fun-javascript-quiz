@@ -1,3 +1,18 @@
-h1 [
-	color: green;
-]
+h1 {
+    text-align:center;
+    color: white;
+    margin-top: 20%;
+}
+
+form {
+    text-align:center;
+    color: white;
+}
+
+#next {
+  margin-top:30px;
+}
+
+body {
+	background-image: url("https://www.planwallpaper.com/static/images/pattern-13.jpg");
+}
