@@ -33,7 +33,7 @@ document.getElementById("choice2").textContent = allQuestions[0].choices[2];
 // Trying to add jQuery pluggin to fade in, but not working yet.
 //If I include slow withing fadeIn() it breaks the game?
   $("#next").click(function() {
-  	$("allQuestions").fadeIn();
+  	$("question").fadeIn();
 
   // Check if User answered question.
   // If yes, update score. If no, do not wait for answer.
